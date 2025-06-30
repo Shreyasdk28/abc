@@ -1,0 +1,16 @@
+FragmentApp/
+├── MainActivity.kt
+├── ArticleFragment.kt
+├── res/
+│   ├── layout/activity_main.xml
+│   ├── layout/fragment_article.xml
+│   └── drawable/image.jpg
+├── AndroidManifest.xml
+
+
+Android Manifest include:
+<activity android:name=".SecondActivity"
+            android:exported="true"
+            tools:ignore="Instantiatable"
+            android:theme="@style/Theme.APPNAME"
+            />

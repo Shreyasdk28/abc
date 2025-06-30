@@ -1,0 +1,16 @@
+ToggleImageApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/toggleimageapp/
+│   │   │   │   └── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── drawable/
+│   │   │   │   │   └── sample_image.png
+│   │   │   │   ├── values/
+│   │   │   │   │   └── strings.xml
+│   │   │   └── AndroidManifest.xml
+├── build.gradle
+└── README.md

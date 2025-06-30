@@ -1,0 +1,14 @@
+TimePickerApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/timepickerapp/
+│   │   │   │   └── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   └── strings.xml
+│   │   │   └── AndroidManifest.xml
+├── build.gradle
+└── README.md

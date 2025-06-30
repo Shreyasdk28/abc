@@ -1,0 +1,14 @@
+SpinnerApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/spinnerapp/
+│   │   │   │   └── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   └── strings.xml
+│   │   │   └── AndroidManifest.xml
+├── build.gradle
+└── README.md

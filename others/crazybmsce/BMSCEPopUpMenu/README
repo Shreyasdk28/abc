@@ -1,0 +1,7 @@
+PopupMenuApp/
+├── MainActivity.kt
+├── res/
+│   ├── layout/activity_main.xml
+│   ├── menu/discipline_menu.xml
+│   └── values/strings.xml
+├── AndroidManifest.xml

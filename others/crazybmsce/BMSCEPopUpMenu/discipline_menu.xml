@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cse" android:title="@string/cse" />
+    <item android:id="@+id/ise" android:title="@string/ise" />
+    <item android:id="@+id/ece" android:title="@string/ece" />
+    <item android:id="@+id/me" android:title="@string/me" />
+    <item android:id="@+id/ae" android:title="@string/ae" />
+</menu>

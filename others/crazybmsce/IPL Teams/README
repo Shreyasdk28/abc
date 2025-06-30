@@ -1,0 +1,16 @@
+IPLTeamApp/
+├── MainActivity.kt
+├── TeamActivity.kt
+├── res/
+│   ├── layout/activity_main.xml
+│   ├── layout/activity_team.xml
+│   └── values/strings.xml
+├── AndroidManifest.xml
+
+
+Android Manifest include:
+<activity android:name=".SecondActivity"
+            android:exported="true"
+            tools:ignore="Instantiatable"
+            android:theme="@style/Theme.APPNAME"
+            />
