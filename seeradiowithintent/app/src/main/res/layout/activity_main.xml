@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <RadioGroup
+        android:id="@+id/radioGroupIntentType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioExplicit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Explicit Intent"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radioImplicit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Implicit Intent"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnLaunch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Launch Intent"/>
+
+</LinearLayout>
